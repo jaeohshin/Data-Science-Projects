@@ -1,1 +1,3 @@
-# 2ndTitanic
+# Data science projects
+1. titanic survivor prediction using random forest methods 
+2. housing proce prediction using ...
